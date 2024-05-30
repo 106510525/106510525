@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=106510525&label=Profile%20views&color=0e75b6&style=flat" alt="106510525" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Django**
-
+ 
 - 📫 How to reach me **nehulkarshubham71@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
